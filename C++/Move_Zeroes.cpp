@@ -32,7 +32,8 @@ Follow up: Could you minimize the total number of operations done?
 #include <iostream>
 #include <vector>
 
-/*class Solution {
+/*
+class Solution {
 public:
     void moveZeroes(std::vector<int>& nums) 
     {
